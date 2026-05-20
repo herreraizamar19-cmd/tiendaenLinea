@@ -13,6 +13,9 @@ body {
     align-items: center;
     min-height: 100vh;
 }
+img{
+    width:100%;
+}
 
 /* Tarjeta principal */
 .product-card {
